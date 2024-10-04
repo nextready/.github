@@ -32,19 +32,19 @@ NextReady prefers to use APIs rather than relying heavily on Server Components. 
 
 ### Project Structure
 
-\`\`\`
+```
 .
 ├── README.md
 ├── app
 │   ├── (landing)
 │   │   └── ... [landing pages]
-│   ├── admin
+│   ├── ~admin
 │   │   └── ... [admin pages]
 │   ├── api
 │   │   ├── _middlewares
 │   │   │   ├── authorization.ts
 │   │   │   └── rbac.ts
-│   │   ├── admin
+│   │   ├── ~admin
 │   │   │   └── ... [admin APIs]
 │   │   ├── auth
 │   │   │   └── ... [auth APIs]
@@ -92,6 +92,6 @@ NextReady prefers to use APIs rather than relying heavily on Server Components. 
 │   └── email
 │       └── ... [email templates]
 └── tsconfig.json
-\`\`\`
+```
 
 **Note.** The structure and library may be changed based on needs.
