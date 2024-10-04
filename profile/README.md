@@ -26,9 +26,9 @@ NextReady prefers to use APIs rather than relying heavily on Server Components. 
 
 ### Screenshots
 
-![Landing Page contrast](/docs/landing2.png)
+![Landing Page contrast](https://nextready.dev/docs/landing2.png)
 
-![Admin Panel contrast](/docs/admin.png)
+![Admin Panel contrast](https://nextready.dev/docs/admin.png)
 
 ### Project Structure
 
