@@ -95,3 +95,7 @@ NextReady prefers to use APIs rather than relying heavily on Server Components. 
 ```
 
 **Note.** The structure and library may be changed based on needs.
+
+### License
+
+Buy the license key [here](https://mgilangjanuar.lemonsqueezy.com/buy/1af9f3f6-815a-429f-ad4f-dcb5c5fb557b?checkout%5Bdiscount_code%5D=LAUNCHNR).
