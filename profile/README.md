@@ -1,6 +1,6 @@
 # About NextReady
 
-NextReady is more than just a boilerplate. It's a complete solution for building and deploying your next project. Or, build a quick MVP to validate your idea and the market first. It's easy to maintain for the long term and you get a constantly updated code base & dependencies.
+[**NextReady**](https://nextready.dev) is more than just a boilerplate. It's a complete solution for building and deploying your next project. Or, build a quick MVP to validate your idea and the market first. It's easy to maintain for the long term and you get a constantly updated code base & dependencies.
 
 ### Tech Stack
 
